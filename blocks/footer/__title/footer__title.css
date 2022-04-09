@@ -1,0 +1,9 @@
+.footer__title {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 80px;
+  color: #FFFFFF;
+  padding: 103px 0 0 190px;
+  max-width: 500px;
+}

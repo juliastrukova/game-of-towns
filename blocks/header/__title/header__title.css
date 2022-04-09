@@ -1,0 +1,9 @@
+.header__title {
+  font-family: 'Caveat';
+  font-weight: 400;
+  font-size: 180px;
+  line-height: 163px;
+  transform: rotate(-8.72deg);
+  margin: 0 auto;
+  max-width: 1015px;
+}

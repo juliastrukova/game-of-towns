@@ -1,0 +1,12 @@
+.email {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: hsla(0, 0%, 1000%, 0.7);
+  border: 3px solid hsla(0, 0%, 100%, 1);
+  box-sizing: border-box;
+  border-radius: 93px;
+  padding: 19px;
+  max-width: 435px;
+}

@@ -39,3 +39,10 @@
   font-style: normal;
   src: url("ubuntu-medium.woff2");
 }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-style: italic;
+  src: url("Ubuntu-MediumItalic.ttf");
+}

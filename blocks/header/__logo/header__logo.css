@@ -1,0 +1,9 @@
+.header__logo {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 32.5714px;
+  line-height: 38px;
+  position: relative;
+  left: 100px;
+  top: 28px;
+}

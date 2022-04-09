@@ -2,39 +2,43 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/email/email.css);
+
 /* header */
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__email/header__email.css);
+@import url(../blocks/header/__subscribe/header__subscribe.css);
+@import url(../blocks/header/__image/header__image.css);
+
+/* rules */
+@import url(../blocks/rules/rules.css);
+@import url(../blocks/rules/__title/rules__title.css);
+@import url(../blocks/rules/__container/rules__container.css);
+@import url(../blocks/rules/__item/rules__item.css);
+@import url(../blocks/rules/__image/rules__image.css);
+@import url(../blocks/rules/__text/rules__text.css);
+/* facts */
 
 
-.header__logo {
-}
-.header__title {
-}
-.header__email {
-}
-.email {
-}
-.header__subscribe {
-}
-.subscribe {
-}
-.header__image {
-}
 
-.rules {
-}
-.rules__title {
-}
-.rules__container {
-}
-.rules__item {
-}
-.rules__image {
-}
-.rules__text {
-}
+
+
+
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__email/footer__email.css);
+@import url(../blocks/footer/__subscribe/footer__subscribe.css);
+@import url(../blocks/footer/__postscript/footer__postscript.css);
+
+
+
+
 .facts {
 }
 .facts__title {
@@ -53,15 +57,4 @@
 }
 .slides__image-right {
 }
-.footer {
-}
-.footer__title {
-}
-.footer__container {
-}
-.footer__email {
-}
-.footer__subscribe {
-}
-.footer__postscript {
-}
+

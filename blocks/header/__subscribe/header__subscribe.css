@@ -1,0 +1,18 @@
+.header__subscribe {
+  background: #338F9A;
+  border-radius: 77px;
+  padding: 19px;
+  max-width: 295px;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  margin: 20px auto auto 100px;
+  opacity: 1;
+  transition-duration: 2s;
+  cursor: pointer;
+}
+
+.header__subscribe:hover{
+  background: #D95F3B;
+}
