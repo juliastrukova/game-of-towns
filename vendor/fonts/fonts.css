@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Caveat';
+  font-weight: 700;
+  font-style: normal;
+  src: url("Caveat-Bold.ttf");
+}
+
+@font-face {
+  font-family: 'Caveat';
+  font-weight: 400;
+  font-style: normal;
+  src: url("Caveat-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  src: url("roboto-regular.woff2");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url("roboto-bold.woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-style: normal;
+  src: url("ubuntu.woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-style: normal;
+  src: url("ubuntu-medium.woff2");
+}

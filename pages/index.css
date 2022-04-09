@@ -1,0 +1,67 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__title/header__title.css);
+
+
+.header__logo {
+}
+.header__title {
+}
+.header__email {
+}
+.email {
+}
+.header__subscribe {
+}
+.subscribe {
+}
+.header__image {
+}
+
+.rules {
+}
+.rules__title {
+}
+.rules__container {
+}
+.rules__item {
+}
+.rules__image {
+}
+.rules__text {
+}
+.facts {
+}
+.facts__title {
+}
+.slides {
+}
+.slide {
+}
+.showing {
+}
+.slides__image {
+}
+.slides__circle {
+}
+.slides__circle-active {
+}
+.slides__image-right {
+}
+.footer {
+}
+.footer__title {
+}
+.footer__container {
+}
+.footer__email {
+}
+.footer__subscribe {
+}
+.footer__postscript {
+}
