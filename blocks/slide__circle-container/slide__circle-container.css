@@ -1,0 +1,6 @@
+.slide__circle-container{
+  list-style-type: none;
+  display: flex;
+  position: absolute;
+  margin: 465px auto 80px 680px;
+}

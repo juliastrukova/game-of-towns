@@ -1,0 +1,6 @@
+.slide__circle-active {
+  background-image: url(../../images/facts/blue-circle.png);
+  width: 19px;
+  height: 14px;
+  background-repeat: no-repeat;
+}

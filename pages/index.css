@@ -21,13 +21,21 @@
 @import url(../blocks/rules/__image/rules__image.css);
 @import url(../blocks/rules/__text/rules__text.css);
 /* facts */
+@import url(../blocks/facts/facts.css);
+@import url(../blocks/facts/__title/facts__title.css);
+@import url(../blocks/slides/slides.css);
+@import url(../blocks/slide/slide.css);
+@import url(../blocks/slide_showing/slide_showing.css);
+@import url(../blocks/slide__image/slide__image.css);
+@import url(../blocks/slide__number/slide__number.css);
+@import url(../blocks/slide_text/slide__text.css);
+@import url(../blocks/slide__circle-container/slide__circle-container.css);
+@import url(../blocks/slide__circle/slide__circle.css);
+@import url(../blocks/slide__circle-active/slide__circle-active.css);
 
-
-
-
-
-
-
+@import url(../blocks/slide__image-right/slide__image-right.css);
+@import url(../blocks/slide__text-left/slide__text-left.css);
+@import url(../blocks/slide__number-left/slide__number-left.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);
@@ -35,26 +43,3 @@
 @import url(../blocks/footer/__email/footer__email.css);
 @import url(../blocks/footer/__subscribe/footer__subscribe.css);
 @import url(../blocks/footer/__postscript/footer__postscript.css);
-
-
-
-
-.facts {
-}
-.facts__title {
-}
-.slides {
-}
-.slide {
-}
-.showing {
-}
-.slides__image {
-}
-.slides__circle {
-}
-.slides__circle-active {
-}
-.slides__image-right {
-}
-

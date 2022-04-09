@@ -1,0 +1,10 @@
+.facts__title {
+  margin: 0;
+  padding: 80px 0 80px 100px;
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 70px;
+  line-height: 80px;
+  color: #000000;
+}

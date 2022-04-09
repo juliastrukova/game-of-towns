@@ -1,0 +1,9 @@
+.slide__number{
+  margin: 0 132px auto 1250px;
+  position: absolute;
+  font-family: 'Caveat';
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 163px;
+  color: #338F9A;
+}
