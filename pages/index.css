@@ -12,6 +12,7 @@
 @import url(../blocks/header/__email/header__email.css);
 @import url(../blocks/header/__subscribe/header__subscribe.css);
 @import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__date/header__date.css);
 
 /* rules */
 @import url(../blocks/rules/rules.css);
